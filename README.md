@@ -1,16 +1,23 @@
-### Hi there 👋
+# Sobre mim
+<div>
+  <p>🎓 Estou cursando Bacharelado em Sistemas de Informação</p>
+  <p>📈 Estudando Aprendizado de máquina</p>
+  <p>💖 Pronome: ela</p>
+</div>
 
-<!--
-**Mariana-Marinho/Mariana-Marinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariana-Marinho&hide=contribs,prs&theme=buefy&show_icons=true)](https://github.com/Mariana-Marinho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-Marinho&theme=buefy&layout=compact)](https://github.com/Mariana-Marinho/github-readme-stats)
 
-Here are some ideas to get you started:
+# About me
+<div>
+  <p>🎓 Undergraduate pursuing my Bachelor's degree in Information Systems</p>
+  <p>📈 I’m currently learning Machine Learning</p>
+  <p>💖 Pronoun: she</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+# Me contate / Let's connect
+<div>
+  <a href="mailto:mariana.marinhoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/a>
+  <a href="https://instagram.com/_maaarii____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/a>
+</div>
