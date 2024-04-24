@@ -18,6 +18,7 @@
 -----
 # Me contate / Let's connect
 <div>
-  <a href="mailto:mariana.marinhoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/a>
+  <a href="mailto:mariana.marinhoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/_maaarii____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/a>
+  <a href="https://www.linkedin.com/in/mariana--marinho/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
