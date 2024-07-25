@@ -14,9 +14,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-Marinho&theme=buefy&layout=compact)](https://github.com/Mariana-Marinho/github-readme-stats)
 
 -----
-# Me contate / Let's connect
+# Let's connect
 <div>
   <a href="mailto:mariana.marinhoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/_maaarii____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/a>
+  <a href="https://instagram.com/_maaarii____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mariana--marinho/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://open.spotify.com/user/mariana.marinho02"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
 </div>
